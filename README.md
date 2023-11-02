@@ -19,8 +19,7 @@ Write a C program for the following pattern:
 
 6.End.
 ## PROGRAM :
-```
-#include<stdio.h>
+```#include<stdio.h>
 int main(){
 for(int
 i=1;i<=3;i++){int
@@ -33,10 +32,8 @@ x--;
 }
 printf("\n");
 }
-}
-```
+}```
 ## OUTPUT :
 ![image](https://github.com/Niroshassithanathan/EX-2-B-NESTED-LOOP/assets/121418437/c3659322-8ad1-44ee-bf7a-55b9c0cc2c1c)
-
 ## RESULT :
 Thus , The C program has been executed successfully.
