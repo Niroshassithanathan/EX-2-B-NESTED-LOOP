@@ -14,9 +14,6 @@ Write a C program for the following pattern:
 3.Initialize count to 1.
 
 4.Use a nested loop structure to control the pattern:
-a. Outer loop (i) iterates from 1 to the desired number of rows.
-b. Inner loop (j) iterates from 1 to i.
-c. In the inner loop, print count, increment count by the difference between the current row number (i) and the inner loop index (j), and add a space after each number.
 
 5.Move to the next row.
 
