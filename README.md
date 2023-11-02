@@ -1,12 +1,11 @@
 # EX-2-B-NESTED-LOOP
 ## AIM :
 Write a C program for the following pattern:
+```
 1
-
 2 6
-
 3 7 10
-
+```
 ## ALGORITHAM :
 1.Start
 
